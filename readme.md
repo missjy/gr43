@@ -1,7 +1,7 @@
 ## **ENGG1340 Group Project Stage 1**
-### **Group 43**
-### **Chen Jiaying(3035533123)**
-### **Gao Enge(3035533070)**
+### **Group :four::three:**
+### **:girl:Chen Jiaying(3035533123) @missjy**
+### **:boy:Gao Enge(3035533070) @Fdax**
 
 #### **Problem Statement**
 
