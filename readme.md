@@ -3,14 +3,14 @@
 ### **:girl:Chen Jiaying(3035533123) @missjy**
 ### **:boy:Gao Enge(3035533070) @Ffax**
 
-#### **:pushpin:Problem Statement**
+#### **Problem Statement:pushpin:**
 
 When the scale of a small business enlarges, it is hard for employers to know employees' quantity, status as well as prepare for approaching red-letter day beforehand through memories or simple calendar function. Therefore, aiming to let employers show solicitude for employees in terms of having a better knowledge of their information and their working status, this system also launches reminder functions like the upcoming birthday or expiration time of certain employees in addition to basic functions. Furthermore, not only can this employee management system guarantee the efficiency of the human source management, but it can also improve employees' satisfaction towards work thus commit more dedication to work.
 
 
 
 
-#### **:pushpin:Problem Setting**
+#### **Problem Setting:pushpin:**
 
 In order to cope with the problem mentioned above, a series of methods are adapted to build up our employee management system thus fulfill the expectation of this project. Within the project, we aim to gather basic information of employees from the user input and help to classify and manage the information. Our employee management system will include several functions below:
 Create a new employee record with the necessary information: ID, Name, Gender, Age, Role, Birthday, Entry Date, Expiration Date, Salary and Employment Status 
