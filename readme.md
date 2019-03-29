@@ -3,6 +3,8 @@
 #### **:girl:Chen Jiaying(3035533123) @missjy**
 #### **:boy:Gao Enge(3035533070) @Fdax**
 
+## **Staff Management System**
+
 ### **:thought_balloon:Problem Statement:thought_balloon:**
 
 When the scale of a small business enlarges, it is hard for employers to know employees' quantity, status as well as prepare for approaching red-letter day beforehand through memories or simple calendar function. Therefore, aiming to let employers show solicitude for employees in terms of having a better knowledge of their information and their working status, this system also launches reminder functions like the upcoming birthday or expiration time of certain employees in addition to basic functions. Furthermore, not only can this employee management system guarantee the efficiency of the human source management, but it can also improve employees' satisfaction towards work thus commit more dedication to work.
