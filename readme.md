@@ -1,8 +1,7 @@
-## **ENGG1340 Group Project** 
-## **Stage 1**
-## **Group 43**
-## **Chen Jiaying(3035533123)**
-## **Gao Enge(3035533070)**
+## **ENGG1340 Group Project Stage 1**
+### **Group 43**
+### **Chen Jiaying(3035533123)**
+### **Gao Enge(3035533070)**
 
 #### **Problem Statement**
 
@@ -25,7 +24,7 @@ Exit the system
 
 When using this system, the user should log in the system with his username and password. Then, a menu will be presented for him to choose the operation. In the end, he can choose to exit the system.
 
-The attribute of each kind of information is shown below:
+**The attribute of each kind of information is shown below:**
 
 - ID: A 9-digit string
 - Name: A string
@@ -40,7 +39,7 @@ The attribute of each kind of information is shown below:
 - Employment Status: A string which is “On the job”, “Fired” or “Internship”
 - Remark: A String (Other information related to the employee)
 
-For example, a record is shown below:
+**For example, a record is shown below:**
 
 - ID: 123456789
 - Name: Chen Dawen
@@ -53,7 +52,7 @@ For example, a record is shown below:
 - Expiration Date: 01/01/2019
 - Salary: 100000 (unit HKD per month)
 - Employment Status: On the job
-- Remark: diabetes, Vegetarian
+- Remark: Diabetes, Vegetarian
 
 
 
